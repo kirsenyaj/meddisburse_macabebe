@@ -36,4 +36,4 @@ https://stellar.expert/explorer/testnet/contract/CA4AH4KHUJXWZBBKWDDYXNYCGSQXGWN
 CA4AH4KHUJXWZBBKWDDYXNYCGSQXGWN4GPQCL2JWHWOUJZQQ57S4W24M
 
 ## Screenshot
-![alt text](<Screenshot 2026-05-26 162738.png>)
+![alt text](image.png)
