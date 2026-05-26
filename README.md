@@ -26,7 +26,7 @@ To create a scalable, composable disaster-relief template that municipalities ac
 
 ## How to Build
 Compile the smart contract to WebAssembly:
-```bash
+
 soroban contract build
 
 ## Stellar Expert Link
