@@ -28,3 +28,12 @@ To create a scalable, composable disaster-relief template that municipalities ac
 Compile the smart contract to WebAssembly:
 ```bash
 soroban contract build
+
+## Stellar Expert Link
+https://stellar.expert/explorer/testnet/contract/CA4AH4KHUJXWZBBKWDDYXNYCGSQXGWN4GPQCL2JWHWOUJZQQ57S4W24M
+
+## Contact ID
+CA4AH4KHUJXWZBBKWDDYXNYCGSQXGWN4GPQCL2JWHWOUJZQQ57S4W24M
+
+## Screenshot
+![alt text](<Screenshot 2026-05-26 162738.png>)
